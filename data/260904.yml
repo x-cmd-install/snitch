@@ -7,7 +7,7 @@ about:
   head: 9b1d21d
   archived: false
   latestVersion: v0.2.2
-  collectedAt: 2026-09-04T19:31:48Z
+  collectedAt: 2026-09-04T20:58:47Z
 timeline:
   created: 2025-08-27
   lastCommit: 2026-06-11
@@ -83,5 +83,43 @@ total:
   openIssue: 12
   commit: 45
 ---
+path: /home/runner/.x-repo/github.com/karol-broda/snitch
+collectedAt: 2026-09-04T20:58:48Z
+loc:
+  Go:
+    code: 8997
+    comments: 733
+    blanks: 1720
+    files: 57
+  Nix:
+    code: 756
+    comments: 51
+    blanks: 64
+    files: 4
+  Sh:
+    code: 108
+    comments: 14
+    blanks: 32
+    files: 2
+  Dockerfile:
+    code: 22
+    comments: 6
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 15
+    comments: 0
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 391
+    blanks: 215
+    files: 7
+total:
+  code: 10004
+  comments: 1214
+  blanks: 2057
+  files: 72
 ---
 
