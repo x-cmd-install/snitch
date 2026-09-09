@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.2"
   latestRelease: "v0.2.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:02:55Z
+  collectedAt: 2026-09-09T19:07:09Z
 timeline:
   created: 2025-08-27
   lastCommit: 2026-06-11
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-12-29
   lastPrerelease: 
 popularity:
-  star: 3487
+  star: 3486
   watcher: 8
   fork: 56
   release: 11
@@ -86,7 +86,7 @@ total:
   commit: 45
 ---
 path: /home/runner/.x-repo/github.com/karol-broda/snitch
-collectedAt: 2026-09-09T05:02:57Z
+collectedAt: 2026-09-09T19:07:11Z
 loc:
   Go:
     code: 8997
