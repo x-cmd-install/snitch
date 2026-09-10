@@ -22,11 +22,31 @@ x install snitch
 - **Latest**: `v0.2.2` (2025-12-29)
 - **Last commit**: 2026-06-11
 - **Assets in release**: 16
-- **Published**: 2025-12-29T19:35:05Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/karol-broda/snitch/releases/download/v0.2.2/checksums.txt) | 1.1 KiB | `other` |
+| [snitch_0.2.2_checksums.txt](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_checksums.txt) | 198 B | `other` |
+| [snitch_0.2.2_darwin_amd64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [snitch_0.2.2_darwin_arm64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [snitch_0.2.2_linux_amd64.apk](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.apk) | 3.7 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_amd64.deb](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.deb) | 3.6 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_amd64.rpm](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.rpm) | 3.7 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_amd64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.tar.gz) | 3.6 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_arm64.apk](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.apk) | 3.3 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_arm64.deb](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.deb) | 3.2 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_arm64.rpm](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.rpm) | 3.3 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_arm64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_armv7.apk](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.apk) | 3.5 MiB | `native/linux/arm` |
+| [snitch_0.2.2_linux_armv7.deb](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.deb) | 3.4 MiB | `native/linux/arm` |
+| [snitch_0.2.2_linux_armv7.rpm](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.rpm) | 3.5 MiB | `native/linux/arm` |
+| [snitch_0.2.2_linux_armv7.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
 
 ## Popularity
 
-- **Stars**: 3,486 · **Forks**: 56 · **Open issues**: 22 · **Contributors**: 2
+- **Stars**: 3,485 · **Forks**: 56 · **Open issues**: 22 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -57,8 +77,8 @@ Total: **9,898** lines of code across **65** files in the top 5 languages.
 Install metadata for snitch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `snitch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/snitch.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/snitch.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:10:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:22Z._

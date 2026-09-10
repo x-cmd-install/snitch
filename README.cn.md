@@ -4,7 +4,7 @@
 
 a prettier way to inspect network connections
 
-![snitch](https://repo.x-cmd.io/snitch.svg)
+![snitch](https://repo.x-cmd.io/snitch.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,31 @@ x install snitch
 - **最新版本**: `v0.2.2` (2025-12-29)
 - **最近提交**: 2026-06-11
 - **Release 含资产**: 16 个
-- **发布时间**: 2025-12-29T19:35:05Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/karol-broda/snitch/releases/download/v0.2.2/checksums.txt) | 1.1 KiB | `other` |
+| [snitch_0.2.2_checksums.txt](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_checksums.txt) | 198 B | `other` |
+| [snitch_0.2.2_darwin_amd64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [snitch_0.2.2_darwin_arm64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [snitch_0.2.2_linux_amd64.apk](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.apk) | 3.7 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_amd64.deb](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.deb) | 3.6 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_amd64.rpm](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.rpm) | 3.7 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_amd64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_amd64.tar.gz) | 3.6 MiB | `native/linux/x64` |
+| [snitch_0.2.2_linux_arm64.apk](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.apk) | 3.3 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_arm64.deb](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.deb) | 3.2 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_arm64.rpm](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.rpm) | 3.3 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_arm64.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
+| [snitch_0.2.2_linux_armv7.apk](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.apk) | 3.5 MiB | `native/linux/arm` |
+| [snitch_0.2.2_linux_armv7.deb](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.deb) | 3.4 MiB | `native/linux/arm` |
+| [snitch_0.2.2_linux_armv7.rpm](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.rpm) | 3.5 MiB | `native/linux/arm` |
+| [snitch_0.2.2_linux_armv7.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
 
 ## 流行度
 
-- **Star**: 3,486 · **Fork**: 56 · **开放 issue**: 22 · **贡献者**: 2
+- **Star**: 3,485 · **Fork**: 56 · **开放 issue**: 22 · **贡献者**: 2
 
 ## 累计统计
 
@@ -61,4 +81,4 @@ snitch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:10:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:45:22Z._
