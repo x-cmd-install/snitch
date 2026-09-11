@@ -12,6 +12,18 @@ a prettier way to inspect network connections
 x install snitch
 ```
 
+## Code insight
+
+Total: **9,898** lines of code across **65** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 8,997 | 733 | 1,720 | 57 |
+| Nix | 756 | 51 | 64 | 4 |
+| Sh | 108 | 14 | 32 | 2 |
+| Dockerfile | 22 | 6 | 8 | 1 |
+| Makefile | 15 | 0 | 8 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/karol-broda/snitch>
@@ -22,6 +34,25 @@ x install snitch
 - **Latest**: `v0.2.2` (2025-12-29)
 - **Last commit**: 2026-06-11
 - **Assets in release**: 16
+
+## Popularity
+
+- **Stars**: 3,485 · **Forks**: 56 · **Open issues**: 22 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 11 · **Merged PRs**: 16 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 12 · **Commits**: 45
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-15 | 0 | 1 | 0 | 0 | 4 | 2 |
+| 360d | 2025-09-16 | 11 | 16 | 1 | 10 | 12 | 42 |
+| last720d | 2024-09-21 | 11 | 16 | 1 | 10 | 12 | 45 |
 
 ## Release assets
 
@@ -44,34 +75,6 @@ x install snitch
 | [snitch_0.2.2_linux_armv7.rpm](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.rpm) | 3.5 MiB | `native/linux/arm` |
 | [snitch_0.2.2_linux_armv7.tar.gz](https://github.com/karol-broda/snitch/releases/download/v0.2.2/snitch_0.2.2_linux_armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
 
-## Popularity
-
-- **Stars**: 3,485 · **Forks**: 56 · **Open issues**: 22 · **Contributors**: 2
-
-## Totals (cumulative)
-
-- **Releases**: 11 · **Merged PRs**: 16 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 12 · **Commits**: 45
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-15 | 11 | 16 | 1 | 10 | 12 | 42 |
-
-## Code size
-
-Total: **9,898** lines of code across **65** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 8,997 | 733 | 1,720 | 57 |
-| Nix | 756 | 51 | 64 | 4 |
-| Sh | 108 | 14 | 32 | 2 |
-| Dockerfile | 22 | 6 | 8 | 1 |
-| Makefile | 15 | 0 | 8 | 1 |
-
 ## Improve this data
 
 Install metadata for snitch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `snitch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +84,4 @@ Install metadata for snitch lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:11:16Z._
