@@ -4,7 +4,7 @@
 
 a prettier way to inspect network connections
 
-[![x-cmd/install — snitch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/snitch.svg)](https://x-cmd.com/install/snitch)
+[![x-cmd/install — snitch Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/snitch.svg)](https://x-cmd.com/install/snitch)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **9,898** lines of code across **65** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-03-26 | 0 | 1 | 0 | 0 | 4 | 2 |
-| 360d | 2025-09-27 | 11 | 16 | 1 | 10 | 12 | 42 |
-| last720d | 2024-10-02 | 11 | 16 | 1 | 10 | 12 | 45 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-27 | 0 | 1 | 0 | 0 | 4 | 2 |
+| 360d | 2025-09-28 | 11 | 16 | 1 | 10 | 12 | 42 |
+| last720d | 2024-10-03 | 11 | 16 | 1 | 10 | 12 | 45 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for snitch lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:17:04Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:19:00Z._
