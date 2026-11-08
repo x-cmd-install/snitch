@@ -37,7 +37,7 @@ Total: **9,898** lines of code across **65** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,522 · **Forks**: 60 · **Open issues**: 23 · **Contributors**: 2
+- **Stars**: 3,524 · **Forks**: 60 · **Open issues**: 23 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **9,898** lines of code across **65** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-11 | 0 | 1 | 0 | 0 | 3 | 1 |
-| 360d | 2025-11-12 | 11 | 16 | 1 | 10 | 13 | 42 |
-| last720d | 2024-11-17 | 11 | 16 | 1 | 10 | 13 | 45 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-12 | 0 | 1 | 0 | 0 | 3 | 1 |
+| 360d | 2025-11-13 | 11 | 16 | 1 | 10 | 13 | 42 |
+| last720d | 2024-11-18 | 11 | 16 | 1 | 10 | 13 | 45 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for snitch lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:21:34Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:22:35Z._
